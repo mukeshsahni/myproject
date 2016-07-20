@@ -86,8 +86,7 @@ DATABASES = {
         #'PORT': '8000',
     }
 }
-
-
+ #commit test
 # Internationalization
 # https://docs.djangoproject.com/en/1.8/topics/i18n/
 
